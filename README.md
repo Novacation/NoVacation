@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **andersoncelestino.n@gmail.com**
 
-- ⚡ Fun fact **I really am a chivalry**
+- ⚡ Fun fact **I really am a knight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
