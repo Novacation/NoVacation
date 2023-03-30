@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a GraphQL backend project, just for study purposes**
 
-- 🌱 I'm currently learning new things, such as **GraphQL, C#, Typescript and React Native**
+- 🌱 I'm currently learning new things, such as **GraphQL, C#, Typescript and React**
 
 - 💬 Ask me about: **Vue.Js, CSS3, Javascript, HTML5, Node.js**
 
