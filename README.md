@@ -1,15 +1,15 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/47398013/190154027-7df6ef97-9d6c-427e-8b59-98af927f5c62.png" align="middle" width="15%"/>Hello friend 👋, I am Sir.Nieto<img src="https://user-images.githubusercontent.com/47398013/190154027-7df6ef97-9d6c-427e-8b59-98af927f5c62.png" align="middle" width="15%"/></h1>
-<h3 align="center">The gods say that I should be a web developer, so here I am.</h3>
+<h3 align="center">The gods say that I should be a Fullstack Dev, so here I am.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novacation&label=Profile%20views&color=0e75b6&style=flat" alt="novacation" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novacation" alt="novacation" /></a> </p>
 
-- 🔭 I’m currently working on **a GraphQL backend project, just for study purposes**
+- 🔭 I’m currently working on **a Shopify gateway using Nestjs and Shopify SDK**
 
 - 🌱 I'm currently learning new things, such as **GraphQL, C#, Typescript and React**
 
-- 💬 Ask me about: **Vue.Js, CSS3, Javascript, HTML5, Node.js**
+- 💬 Ask me about: **.Net, ASP MVC, Clean Arch, Vue.Js, NestJs**
 
 - 📫 How to reach me: **andersoncelestino.n@gmail.com**
 
