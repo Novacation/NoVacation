@@ -20,6 +20,6 @@
 <a href="https://www.linkedin.com/in/andersoncelestino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-dias-celestino-nieto-522755165/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools: <strong>Asp MVC, Blazor, Vuejs, Nestjs, Sql Server, </strong> </h3>
+<h3 align="left">Languages and Tools: <strong>Asp MVC, Blazor, Vuejs, Nestjs, Sql Server</strong> </h3>
 
 🧠 "Friend shall be known in time of need." ~ A proverb from c.1035
