@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novacation&label=Profile%20views&color=0e75b6&style=flat" alt="novacation" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novacation" alt="novacation" /></a> </p>
-
 - 🔭 I’m currently working on **a Shopify gateway using Nestjs and Shopify SDK**
 
 - 🌱 I'm currently learning new things, such as **GraphQL, C#, Typescript and React**
