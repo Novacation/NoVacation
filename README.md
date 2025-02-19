@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novacation&label=Profile%20views&color=0e75b6&style=flat" alt="novacation" /> </p>
 
-- 🔭 I’m currently working on **a Shopify gateway using Nestjs and Shopify SDK**
+- 🔭 I’m currently working on **Stock Management System using .NET 8, EF Core, CQRS, Clean Arch, SQL Server, Docker, Angular 19 and xUnit**
 
-- 🌱 I'm currently learning new things, such as **GraphQL, C#, Typescript and React**
+- 🌱 I'm currently learning new things, such as **Angular, CI/CD and Azure DevOps**
 
-- 💬 Ask me about: **.Net, ASP MVC, Clean Arch, Vue.Js, NestJs**
+- 💬 Ask me about: **.Net, ASP, Clean Arch, CQRS, Vue.Js, NestJs, Angular and Docker**
 
 - 📫 How to reach me: **andersoncelestino.n@gmail.com**
 
@@ -18,6 +18,6 @@
 <a href="https://www.linkedin.com/in/andersoncelestino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-dias-celestino-nieto-522755165/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools: <strong>Asp MVC, Blazor, Vuejs, Nestjs, Sql Server</strong> </h3>
+<h3 align="left">Languages and Tools: <strong>.NET 8, EF Core, CQRS, Clean Arch, SQL Server, Docker, Angular 19, xUnit, Blazor, Vuejs and Nestjs</strong> </h3>
 
 🧠 "Friend shall be known in time of need." ~ A proverb from c.1035
